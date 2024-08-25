@@ -1,4 +1,4 @@
-const { Cart } = require('./typescript.js'); 
+const { Cart } = require('./typescript.ts'); 
 
 describe('Cart', () => {
   let cart: Cart;
